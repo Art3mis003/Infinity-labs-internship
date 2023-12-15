@@ -1,0 +1,12 @@
+com\usermanagement\model\UserDeptInfo.class
+com\usermanagement\service\IUserService.class
+com\usermanagement\config\MongoDBConfiguration.class
+com\usermanagement\config\SwaggerConfiguration.class
+com\usermanagement\model\UserGeoInfo.class
+com\usermanagement\model\UserRequest.class
+com\usermanagement\service\UserServiceImpl.class
+com\usermanagement\model\UserContactInfo.class
+com\usermanagement\UserManagementApplication.class
+com\usermanagement\repository\IUserRepository.class
+com\usermanagement\entity\UserMaster.class
+com\usermanagement\controller\UserManagementController.class

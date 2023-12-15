@@ -1,0 +1,12 @@
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\UserManagementApplication.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\model\UserDeptInfo.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\service\IUserService.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\config\MongoDBConfiguration.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\model\UserRequest.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\repository\IUserRepository.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\config\SwaggerConfiguration.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\controller\UserManagementController.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\entity\UserMaster.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\service\UserServiceImpl.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\model\UserGeoInfo.java
+C:\Users\prady\OneDrive - Manipal Academy of Higher Education\usermanagement\src\main\java\com\usermanagement\model\UserContactInfo.java

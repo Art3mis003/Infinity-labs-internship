@@ -1,0 +1,14 @@
+public UserMaster getUserByEmail(String email) {
+    List<UserMaster> userMasters = iUserRepository.getAllUsers(); // Retrieve all user masters
+
+    for (UserMaster userMaster : userMasters) {
+        List<UserContactInfo> contactInfo = userMaster.getContactInfo();
+
+        for (UserContactInfo contactInfo : contactInfos) {
+            if (email.equals(contactInfo.getEmail())) {
+                return userMaster; 
+            }
+        }
+    }
+
+    return null; /
