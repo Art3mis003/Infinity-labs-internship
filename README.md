@@ -6,4 +6,4 @@ retreiving a user using emailId, UserId.
 <br>
 updating user details.
 <br> 
-deleteing a user from database.
+deleting a user from database.
